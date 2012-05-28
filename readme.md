@@ -4,11 +4,13 @@ This plugin can be used to display a message on your website helping to explain 
 
 ## Options
 
+```javascipt
 bgColor: #333
 textColor: #fff
 location: top
 cookiePage: /cookies
 longMessage: false
+```
 
 ## Usage
 
