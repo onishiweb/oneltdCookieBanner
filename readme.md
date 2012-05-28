@@ -1,6 +1,8 @@
 # One Ltd Cookie Banner plugin
 
-This plugin can be used to display a message on your website helping to explain your cookie policy. It works with implied consent from the user and sets a cookie to not display the message again.
+This plugin can be used to display a message on your website helping to explain your cookie policy. It works with implied consent from the user and sets a cookie to not display the message again. The message can be dismissed using the continue button which will slide away the banner.
+
+The plugin writes a 2 year cookie with the key oneltd-cookie-controller to prevent the message from appearing multiple times. 
 
 Uses jQuery.cookie.js plugin (included): https://github.com/carhartl/jquery-cookie
 
