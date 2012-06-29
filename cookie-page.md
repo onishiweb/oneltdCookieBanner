@@ -6,10 +6,6 @@ Cookies are small text files that are stored in your browser and are used by mos
 
 ## What cookies do we use?
 
-The following cookies are used on this website:
-
-```[cookie-cat]```
-
 ## Google Analytics
 
 We use Google Analytics to analyse how visitors use our site in aggregate form. Google Analytics uses cookies to identify unique visitors and record how they use a website. It does not collect any personally identifiable information and does not track movements between different websites.
